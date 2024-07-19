@@ -1,0 +1,39 @@
+
+body{
+    background-image:url(./gradient-numerology-background_23-2150066816.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#main{
+    height: 450px;
+    width: 550px;
+    border: 3px solid rgb(51, 176, 222);
+    margin: 500px;
+    margin-top: 150px;
+    text-align: center;
+    background-color: rgb(0, 115, 255);
+    color: rgb(255, 255, 255);
+    border-radius:15%;
+    background: transparent;
+
+}
+#pon
+{
+    text-align: justify;
+    margin-left: 115px;
+}
+#sub{
+    height: 42px;
+    width: 50px;
+    background: rgb(43, 177, 226);
+    color: rgb(12, 5, 22);
+    border-radius:15%;
+}
+#res{
+    height: 42px;
+    width: 50px;
+    background: rgb(134, 43, 226);
+    color: rgb(12, 5, 22);
+    border-radius: 15%;
+}
